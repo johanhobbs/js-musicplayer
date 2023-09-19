@@ -9,6 +9,7 @@ body {
         0deg,
         rgba(247,247,247,1) 23.8%,
         rgba(252,211,211,1) 92%
+
     );
 
     display: flex;
@@ -17,6 +18,7 @@ body {
     justify-content: center;
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
+
 }
 
 .music-container{
